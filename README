@@ -1,0 +1,10 @@
+Dependencies
+smrawmount requires:
+* libfuse
+  (optional but recommended)
+
+
+See:
+* http://code.google.com/p/libsmraw/wiki/Building
+* README.macosx
+
