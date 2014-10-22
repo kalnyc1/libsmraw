@@ -104,7 +104,7 @@ stamp-h1
 /include/libsmraw/types.h
 /libsmraw/libsmraw.rc
 /libsmraw/libsmraw_definitions.h
-/smrawtools/smrawinfo
+/smrawtools/smrawmount
 /smrawtools/smrawverify
 /tests/input
 /tests/smraw_test_glob
